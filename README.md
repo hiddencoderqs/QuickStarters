@@ -1,1 +1,1 @@
-# QuickStarters
+# QuickStarters Project - skeletons and prototypes for various frameworks, playground
