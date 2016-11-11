@@ -1,0 +1,33 @@
+{
+  "candies": [
+    {
+      "name": "jsweet-core",
+      "version": "1.2.0-SNAPSHOT",
+      "lastUpdateTimestamp": 1478376120000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "1.2.0",
+      "jsOutputDirPath": "F:\\workspace.qs\\JSweetQS\\.jsweet\\candies\\js",
+      "jsDirPath": "META-INF/resources/webjars/jsweet-core/1.2.0-SNAPSHOT",
+      "jsFilesPaths": []
+    },
+    {
+      "name": "react-global",
+      "version": "0.14.0-SNAPSHOT",
+      "lastUpdateTimestamp": 1468096362000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "1.2.0",
+      "jsOutputDirPath": "F:\\workspace.qs\\JSweetQS\\.jsweet\\candies\\js",
+      "jsDirPath": "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT",
+      "jsFilesPaths": [
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-dom-server.min.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-dom-server.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-with-addons.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-with-addons.min.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-dom.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react.min.js",
+        "META-INF/resources/webjars/react-global/0.14.0-SNAPSHOT/react-dom.min.js"
+      ]
+    }
+  ]
+}

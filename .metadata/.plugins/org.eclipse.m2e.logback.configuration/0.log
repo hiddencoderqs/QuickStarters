@@ -1,0 +1,911 @@
+2016-11-11 13:44:13,272 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - JSweetQS has multiple source entries, this is not supported yet
+2016-11-11 13:44:19,018 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:44:21,866 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:21,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:44:21,869 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:21,870 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:44:21,908 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 13:44:21,908 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 13:44:29,274 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:29,275 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:44:29,276 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:29,277 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:44:29,345 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 13:44:29,988 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:44:31,155 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:31,156 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:44:31,158 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:31,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:44:31,159 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:44:31,160 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:44:31,206 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:31,230 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 13:44:31,230 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 13:44:33,203 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 13:44:33,254 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-11-11 13:44:33,399 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:33,400 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:44:33,401 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:44:33,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:44:33,402 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:44:33,402 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:44:33,405 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:48,574 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:45:49,663 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:49,664 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:45:49,666 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:49,667 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:45:49,667 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:45:49,667 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:45:49,690 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:51,372 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:45:52,388 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:52,389 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:45:52,390 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:45:52,392 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:45:52,393 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:45:52,393 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:45:52,398 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:49:10,678 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:10,683 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:14,232 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:49:14,249 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:49:14,335 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:49:14,496 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/jsweet-maven-plugin-1.2.0-20161011.023012-13.jar
+2016-11-11 13:49:14,564 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/jsweet-maven-plugin-1.2.0-20161011.023012-13.jar
+2016-11-11 13:49:15,194 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:49:15,200 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:15,203 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:15,292 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:15,295 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:49:15,380 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/jsweet-maven-plugin-1.2.0-20161011.023012-13.pom
+2016-11-11 13:49:15,524 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/jsweet-maven-plugin-1.2.0-20161011.023012-13.pom
+2016-11-11 13:49:15,594 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/1.2.0-SNAPSHOT/jsweet-maven-plugin-1.2.0-20161011.023012-13.pom
+2016-11-11 13:49:16,503 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:49:16,504 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:49:16,505 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:49:16,506 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:49:16,506 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:49:16,507 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:49:16,510 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:50:23,026 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:50:23,031 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:50:23,039 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 13:50:23,467 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:50:23,468 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:50:23,469 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:50:23,470 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:50:23,470 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:50:23,470 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:50:23,473 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:52:17,175 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:52:17,181 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:52:17,184 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:52:17,213 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:52:17,218 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:52:17,977 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:52:17,977 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:52:17,979 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:52:17,980 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:52:17,981 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:52:17,981 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:52:17,984 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:53:09,160 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:09,166 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:09,710 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:53:09,715 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:09,720 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:09,734 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:09,740 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:53:10,478 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:53:10,479 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:53:10,480 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:53:10,481 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:53:10,481 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:53:10,481 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:53:10,483 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:07,147 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:07,150 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:07,710 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:54:07,714 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:07,718 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:07,730 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:07,734 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:08,575 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:08,576 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:54:08,577 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:08,578 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:54:08,578 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:54:08,578 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:54:08,582 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:44,888 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:45,157 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:54:47,904 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:47,906 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:54:47,909 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:54:47,910 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:56:58,113 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 13:56:58,760 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:56:58,767 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:56:58,771 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:56:58,803 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:56:58,807 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:56:59,826 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 13:56:59,827 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 13:57:00,172 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:57:00,178 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:57:00,250 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 13:57:00,266 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-11-11 13:57:00,437 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:57:00,442 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:57:00,473 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:57:00,473 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:57:00,475 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:57:00,477 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:57:00,477 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:57:00,478 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:57:00,503 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:57:11,030 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 13:57:11,186 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:57:11,186 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:57:11,187 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:57:11,188 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:57:11,188 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:57:11,188 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:57:11,191 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:58:20,401 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:58:20,407 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:58:20,412 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:58:20,426 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:jsweet-core:jar:1.1.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:58:20,430 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jsweet.candies:react-global:jar:0.14.0-SNAPSHOT is missing, no dependency information available
+2016-11-11 13:58:21,390 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:58:21,391 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:58:21,394 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:58:21,394 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:58:21,399 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:58:21,399 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:58:21,405 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:59:38,164 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 13:59:41,557 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:41,557 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:41,629 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:41,710 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/jsweet-core-1.1.0-20160524.220238-100.pom
+2016-11-11 13:59:41,855 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/jsweet-core-1.1.0-20160524.220238-100.pom
+2016-11-11 13:59:41,923 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/jsweet-core-1.1.0-20160524.220238-100.pom
+2016-11-11 13:59:41,997 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,065 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,075 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,155 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/react-global-0.14.0-20160709.213246-50.pom
+2016-11-11 13:59:42,294 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/react-global-0.14.0-20160709.213246-50.pom
+2016-11-11 13:59:42,360 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/react-global-0.14.0-20160709.213246-50.pom
+2016-11-11 13:59:42,432 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,506 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,514 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/maven-metadata.xml
+2016-11-11 13:59:42,601 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/jsweet-core-1.2.0-20161105.220245-26.pom
+2016-11-11 13:59:42,737 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/jsweet-core-1.2.0-20161105.220245-26.pom
+2016-11-11 13:59:42,804 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.2.0-SNAPSHOT/jsweet-core-1.2.0-20161105.220245-26.pom
+2016-11-11 13:59:43,542 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/jsweet-core-1.1.0-20160524.220238-100.jar
+2016-11-11 13:59:46,748 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/jsweet-core/1.1.0-SNAPSHOT/jsweet-core-1.1.0-20160524.220238-100.jar
+2016-11-11 13:59:47,491 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/react-global-0.14.0-20160709.213246-50.jar
+2016-11-11 13:59:48,857 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/candies/react-global/0.14.0-SNAPSHOT/react-global-0.14.0-20160709.213246-50.jar
+2016-11-11 13:59:49,863 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:59:49,864 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 13:59:49,865 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 13:59:49,866 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 13:59:49,866 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 13:59:49,866 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 13:59:49,869 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 14:01:30,247 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 14:01:30,248 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 14:01:30,249 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 14:01:30,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:07:25,332 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:07:25,333 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:07:25,335 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:07:25,335 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:07:30,126 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:07:30,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:07:30,128 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:07:30,128 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:08:03,485 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:08:03,485 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:08:03,486 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:08:03,487 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:08:48,000 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 15:08:48,174 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:08:48,175 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:08:48,176 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:08:48,177 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:08:48,177 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:08:48,177 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:08:48,186 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:09:01,371 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:09:01,372 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:09:01,374 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:09:01,374 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:09:01,374 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:09:01,374 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:09:01,377 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:29,404 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:29,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:10:29,411 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:29,411 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:10:29,423 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:10:29,424 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:10:29,469 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:31,635 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:31,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:10:31,638 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:10:31,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:10:31,640 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:10:31,640 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:10:31,649 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:41:48,897 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:41:48,898 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:41:48,900 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:41:48,900 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:41:48,900 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:41:48,900 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:41:48,909 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:59:41,239 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:59:41,240 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 15:59:41,242 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 15:59:41,243 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 15:59:41,243 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 15:59:41,243 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 15:59:41,253 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:00:14,843 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:00:14,843 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:00:14,844 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:00:14,845 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:00:14,845 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:00:14,845 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:00:14,848 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:06:50,121 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-11 16:11:07,037 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-11-11 16:11:21,638 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:11:21,639 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jsweetqs
+2016-11-11 16:11:29,283 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-11-11 16:11:29,382 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:11:29,382 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jsweetqs
+2016-11-11 16:11:57,692 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:11:57,692 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jsweet:jsweet
+2016-11-11 16:12:48,825 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:12:54,318 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:54,319 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:12:54,321 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:54,321 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:12:54,321 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:12:54,321 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:12:54,324 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:56,064 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:56,065 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:12:56,066 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:56,066 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:12:56,067 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:12:56,067 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:12:56,071 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:12:57,127 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:12:57,128 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jsweet:jsweet
+2016-11-11 16:13:08,043 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:13:08,044 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:13:08,045 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:13:08,046 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:13:08,046 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:13:08,046 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:13:08,050 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-11 16:17:29,117 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:17:29,966 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:29,966 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:17:29,968 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:29,968 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:17:29,968 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:17:29,968 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:17:29,971 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:31,259 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:31,259 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:17:31,259 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:31,259 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:17:31,260 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:17:31,260 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:17:31,264 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:36,698 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:36,698 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:17:36,699 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:17:36,699 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:17:36,699 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:17:36,699 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:17:36,702 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:01,769 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:22:02,603 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:02,603 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:22:02,605 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:02,605 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:22:02,605 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:22:02,605 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:22:02,611 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:02,616 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:22:47,840 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:22:48,615 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:48,616 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:22:48,617 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:48,617 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:22:48,617 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:22:48,617 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:22:48,620 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:22:48,621 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:24:44,463 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:24:45,326 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:24:45,326 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:24:45,327 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:24:45,327 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:24:45,327 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:24:45,327 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:24:45,330 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:24:45,331 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:25:33,026 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:25:33,026 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:25:33,027 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:25:33,028 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:25:40,210 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:25:40,210 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:25:40,212 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:25:40,212 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:26:10,897 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 16:26:11,263 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:26:12,050 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 16:26:12,051 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 16:26:12,364 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:26:12,367 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-11 16:26:13,344 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:26:13,344 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:26:13,345 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:26:13,346 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:26:13,346 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:26:13,346 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:26:13,349 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:26:13,351 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:30:16,381 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:30:17,004 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:30:17,004 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:30:17,005 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:30:17,005 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:30:17,005 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:30:17,005 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:30:17,013 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:30:17,014 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:37:30,532 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:37:30,533 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:37:30,534 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:37:30,534 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:38:14,085 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:38:14,086 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:38:14,086 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:38:14,086 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:41:54,649 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:41:54,649 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:41:54,650 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:41:54,650 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:42:06,156 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:42:06,156 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:42:06,157 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:42:06,157 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:42:25,487 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:42:25,488 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:42:25,490 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:42:25,490 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:43:14,387 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:43:14,387 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:43:14,388 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:43:14,388 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:43:32,851 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:43:32,851 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:43:32,851 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:43:32,851 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:44:23,896 [Worker-80] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 16:44:24,295 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:44:25,045 [Worker-80] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 16:44:25,045 [Worker-80] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 16:44:25,388 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:44:25,392 [Worker-80] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-11 16:44:26,311 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:44:26,311 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:44:26,313 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:44:26,313 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:44:26,314 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:44:26,314 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:44:26,320 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:44:26,321 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:45:29,836 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:45:30,175 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:30,176 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:45:30,176 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:30,176 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:45:30,176 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:45:30,177 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:45:30,181 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:30,182 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:45:47,415 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:47,415 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:45:47,416 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:47,416 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:45:47,417 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:45:47,421 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:45:47,421 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:47:15,819 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:47:16,156 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:16,156 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:47:16,156 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:16,157 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:47:16,157 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:47:16,157 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:47:16,161 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:16,161 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:47:18,294 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:18,295 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:47:18,296 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:18,296 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:47:18,296 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:47:18,301 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:47:18,301 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:50:58,130 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:51:01,531 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom
+2016-11-11 16:51:01,667 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom
+2016-11-11 16:51:06,031 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom
+2016-11-11 16:51:06,103 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom
+2016-11-11 16:51:06,250 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom
+2016-11-11 16:51:06,391 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom
+2016-11-11 16:51:06,443 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom
+2016-11-11 16:51:06,536 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom
+2016-11-11 16:51:06,689 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/apache/apache/12/apache-12.pom
+2016-11-11 16:51:06,830 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/apache/apache/12/apache-12.pom
+2016-11-11 16:51:07,058 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/12/apache-12.pom
+2016-11-11 16:51:07,107 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/12/apache-12.pom
+2016-11-11 16:51:07,255 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar
+2016-11-11 16:51:07,403 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar
+2016-11-11 16:51:07,626 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar
+2016-11-11 16:51:07,721 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar
+2016-11-11 16:51:08,718 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:08,719 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:51:08,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:08,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:51:08,720 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:51:08,720 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:51:08,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:08,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:51:54,260 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:51:55,079 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:55,079 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:51:55,081 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:55,081 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:51:55,081 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:51:55,081 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:51:55,084 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:51:55,085 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:52:18,895 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:52:19,600 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:19,600 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:52:19,601 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:19,601 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:52:19,601 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:52:19,601 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:52:19,604 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:19,604 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:52:33,174 [Worker-76] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 16:52:33,489 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 16:52:34,201 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 16:52:34,201 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 16:52:34,445 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:52:34,449 [Worker-76] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-11 16:52:35,422 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:35,422 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:52:35,423 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:35,423 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:52:35,424 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:52:35,424 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:52:35,427 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:52:35,427 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:52:44,661 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-11 16:53:09,866 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:53:09,866 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2016-11-11 16:55:09,155 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:09,156 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:55:09,157 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:09,157 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:55:09,158 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:55:09,162 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:09,166 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 16:55:18,161 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:18,161 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:55:18,162 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:18,162 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:55:58,592 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:58,592 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:55:58,593 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:58,593 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:55:58,593 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:55:58,593 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:55:58,599 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:55:58,599 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:56:14,506 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 16:56:14,813 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:56:14,813 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 16:56:14,814 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:56:14,814 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 16:56:14,814 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 16:56:14,814 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 16:56:14,817 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 16:56:14,817 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\target\js\ru\hiddencoderqs\jsweetqs
+2016-11-11 16:56:21,532 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-11 16:56:44,884 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:56:44,884 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2016-11-11 16:58:55,779 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:58:55,779 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 16:59:01,303 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 16:59:01,303 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 17:00:03,628 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 17:00:04,385 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:00:04,385 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 17:00:04,386 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:00:04,386 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 17:00:04,386 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 17:00:04,386 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 17:00:04,389 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:00:04,390 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 17:04:42,660 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:04:42,660 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 17:04:42,661 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:04:42,661 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 17:04:42,661 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 17:04:42,664 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 17:04:42,665 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 18:50:26,015 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:50:26,079 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 18:50:26,081 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:50:26,081 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 18:55:09,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:55:09,893 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 18:55:09,894 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:55:09,894 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 18:56:32,077 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:56:32,078 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 18:56:32,078 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:56:32,079 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 18:56:38,483 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 18:56:39,933 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:56:39,933 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 18:56:39,935 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:56:39,935 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 18:56:39,935 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 18:56:39,936 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 18:56:39,987 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 18:56:40,002 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 18:56:45,796 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 18:56:45,797 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:06:27,029 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:27,029 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:06:27,030 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:27,030 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:06:28,070 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:28,071 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:06:28,072 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:28,072 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:06:34,940 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:34,941 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:06:34,942 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:06:34,942 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:07:18,823 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:07:18,824 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:07:18,829 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:07:18,829 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:07:56,263 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:07:56,264 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:07:56,265 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:07:56,265 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:07:56,266 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:07:56,271 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:07:56,274 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-11 19:08:03,387 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:03,387 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:08:03,389 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:03,390 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:08:47,059 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:08:48,038 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:48,038 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:08:48,039 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:48,040 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:08:48,040 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:08:48,040 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:08:48,043 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:54,709 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:54,709 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:08:54,710 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:08:54,710 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:15:46,698 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:15:47,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:15:47,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:15:47,458 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:15:47,458 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:15:47,458 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:15:47,458 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:15:47,461 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:05,479 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-11 19:16:05,873 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:16:06,601 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSweetQS/src
+2016-11-11 19:16:06,601 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSweetQS/src/test/java because it overlaps with /JSweetQS/src
+2016-11-11 19:16:06,958 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSweetQS
+2016-11-11 19:16:06,964 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-11-11 19:16:07,806 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:07,806 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:16:07,808 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:07,808 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:16:07,808 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:16:07,808 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:16:07,811 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:17,738 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:17,739 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:16:17,740 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:16:17,740 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:16:17,741 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:16:17,741 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:16:17,747 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:17:07,400 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:17:07,401 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:19:50,378 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:19:50,379 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:20:37,660 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:20:37,660 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:20:37,661 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:20:37,662 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:20:37,662 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:20:37,662 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:20:37,666 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:20:46,720 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:20:46,720 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:20:46,721 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:20:46,721 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:20:46,722 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:20:46,722 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:20:46,729 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:22:18,187 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:22:19,050 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:22:19,051 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:22:19,052 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:22:19,052 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:22:19,052 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:22:19,052 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:22:19,055 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:23:38,040 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:23:38,772 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:23:38,772 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:23:38,773 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:23:38,774 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:23:38,774 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:23:38,774 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:23:38,777 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:49,369 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:49,370 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:37:49,371 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:49,371 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:37:49,371 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:37:49,371 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:37:49,374 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:51,012 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:51,012 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:37:51,013 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:37:51,013 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:37:51,014 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:37:51,014 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:37:51,021 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:38:37,609 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:38:37,610 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:38:37,610 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:38:37,610 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:38:37,610 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:38:37,610 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:38:37,613 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:01,619 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:01,619 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:39:01,620 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:01,620 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:39:01,620 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:39:01,621 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:39:01,624 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:32,584 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:32,584 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:39:32,585 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:32,585 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:39:32,586 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:39:32,586 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:39:32,589 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:35,951 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:35,951 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:39:35,952 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:39:35,952 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:39:35,952 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:39:35,953 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:39:35,956 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:40:12,279 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:40:12,279 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:40:12,280 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:40:12,281 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:40:12,281 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:40:12,281 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:40:12,284 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:43,595 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:43,595 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:41:43,595 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:43,596 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:41:43,596 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:41:43,596 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:41:43,600 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:57,276 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:57,276 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:41:57,277 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:41:57,277 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:41:57,277 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:41:57,277 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:41:57,280 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:42:35,216 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:42:35,216 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:42:35,217 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:42:35,217 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:42:35,217 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:42:35,218 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:42:35,223 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:42:42,023 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:42:42,024 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:43:01,725 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:43:01,725 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:43:48,942 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JSweetQS:JSweetQS:0.0.1-SNAPSHOT @ F:\workspace.qs\JSweetQS\pom.xml.
+2016-11-11 19:43:49,728 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:43:49,728 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:43:49,729 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:43:49,729 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:43:49,730 [Worker-85] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:43:49,730 [Worker-85] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:43:49,732 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:10,535 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:10,535 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:44:10,536 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:10,536 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:44:10,537 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:44:10,537 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:44:10,540 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:19,363 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:19,363 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:44:19,364 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:19,364 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:44:19,364 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:44:19,364 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:44:19,367 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:44:31,864 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:44:31,864 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:45:25,794 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:45:25,795 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:45:25,795 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:45:25,795 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:45:25,795 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:45:25,795 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:45:25,798 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:45:56,679 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:45:56,680 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:47:19,286 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:19,286 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:47:19,287 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:19,287 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:47:19,288 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:47:19,288 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:47:19,292 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:23,653 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:23,653 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:47:23,654 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:23,654 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:47:23,654 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:47:23,654 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:47:23,656 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:24,733 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:24,733 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:47:24,735 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:24,735 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:47:24,735 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:47:24,735 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:47:24,744 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:39,285 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:39,285 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:47:39,286 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:39,287 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:47:39,287 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:47:39,287 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:47:39,292 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:40,379 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:40,380 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:47:40,381 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:47:40,381 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:47:40,381 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:47:40,382 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:47:40,390 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:48:38,823 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:48:38,823 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:48:38,824 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:48:38,824 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:48:38,824 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:48:38,824 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:48:38,827 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:14,701 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:14,701 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:49:14,702 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:14,703 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:49:14,703 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:49:14,703 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:49:14,707 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:18,756 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:18,756 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:49:18,757 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:18,757 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:49:18,757 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:49:18,757 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:49:18,761 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:20,939 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:20,940 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:49:20,940 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:49:20,941 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:49:20,941 [Worker-91] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:49:20,941 [Worker-91] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:49:20,944 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:03,242 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:03,242 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:50:03,242 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:03,242 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:50:03,243 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:50:03,243 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:50:03,245 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:06,550 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:06,550 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:50:06,551 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:06,551 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:50:06,551 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:50:06,551 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:50:06,555 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:16,103 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:16,103 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:50:16,104 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:16,104 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:50:16,104 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:50:16,104 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:50:16,106 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:31,012 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:31,013 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:50:31,015 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:31,015 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:50:31,016 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:50:31,016 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:50:31,024 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:53,863 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:53,863 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:50:53,864 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:50:53,864 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:50:53,864 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:50:53,865 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:50:53,869 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:51:19,325 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-11-11 19:51:19,328 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:51:19,328 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:51:57,758 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:51:57,758 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:53:16,385 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:53:16,385 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:53:16,386 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:53:16,386 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:53:16,386 [Worker-89] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:53:16,387 [Worker-89] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:53:16,389 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:53:30,475 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\workspace.qs\JSweetQS
+2016-11-11 19:53:30,475 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package tomcat:run
+2016-11-11 19:58:39,166 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:58:39,166 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\main\resources
+2016-11-11 19:58:39,166 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-11 19:58:39,167 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\workspace.qs\JSweetQS\src\test\resources
+2016-11-11 19:58:39,167 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSweetQS
+2016-11-11 19:58:39,167 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSweetQS
+2016-11-11 19:58:39,169 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
